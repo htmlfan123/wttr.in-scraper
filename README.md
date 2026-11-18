@@ -1,2 +1,5 @@
 # wttr.in-scraper
-a wttr.in scraper made in python
+
+A wttr.in scraper made in Python.
+
+Replace `London` with a city name. The `j1` format returns JSON.
